@@ -1,10 +1,6 @@
 console.log('sourced');
 
-// var inventory = [];
-// var fruit = {
-//   name: '',
-//   price: 0,
-// };
+
 var orangeInv = 0;
 var redGrapeInv = 0;
 var pearInv = 0;
